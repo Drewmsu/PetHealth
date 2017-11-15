@@ -61,3 +61,5 @@ D:\2017-02\FundamentosArquitecturaSoftware\TF\PetHealth\PetHealthServicePrototyp
 D:\2017-02\FundamentosArquitecturaSoftware\TF\PetHealth\PetHealthServicePrototype\PetHealthServicePrototype\obj\Release\PetHealthServicePrototype.csprojResolveAssemblyReference.cache
 D:\2017-02\FundamentosArquitecturaSoftware\TF\PetHealth\PetHealthServicePrototype\PetHealthServicePrototype\obj\Release\PetHealthServicePrototype.dll
 D:\2017-02\FundamentosArquitecturaSoftware\TF\PetHealth\PetHealthServicePrototype\PetHealthServicePrototype\obj\Release\PetHealthServicePrototype.pdb
+D:\2017-02\FundamentosArquitecturaSoftware\TF\PetHealth\PetHealthServicePrototype\PetHealthServicePrototype\bin\System.Web.Abstractions.dll
+D:\2017-02\FundamentosArquitecturaSoftware\TF\PetHealth\PetHealthServicePrototype\PetHealthServicePrototype\bin\System.Web.Routing.dll
